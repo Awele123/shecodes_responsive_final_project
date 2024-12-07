@@ -391,13 +391,13 @@ footer .email-link {
   gap: 40px;
 }
 .about-image {
-  width: auto;
-  height: 100%;
+  width: 100%;
+  height: 400px;
 }
 .about-image img {
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
 }
 .yogurt {
   width: 20px;
