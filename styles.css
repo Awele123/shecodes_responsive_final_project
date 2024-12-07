@@ -322,7 +322,8 @@ footer {
   flex-direction: column;
   gap: 80px;
 }
-
+.mx-auto {
+}
 @media (max-width: 576px) {
   .logo {
     display: none;
@@ -397,7 +398,7 @@ footer .email-link {
 .about-image img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 .yogurt {
   width: 20px;
