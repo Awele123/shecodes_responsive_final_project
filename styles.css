@@ -439,9 +439,9 @@ nav a {
   font-size: 10px;
 }
 
-/* .hom {
+.hom {
   display: none;
-} */
+}
 nav li {
   list-style: none;
   display: inline;
