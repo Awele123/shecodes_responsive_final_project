@@ -435,9 +435,12 @@ footer .email-link {
 nav {
   padding: 10px 0;
 }
+nav a {
+  font-size: 14px;
+}
 nav li {
   list-style: none;
   display: inline;
-  line-height: 0px;
-  margin-left: 5px;
+  line-height: 40px;
+  margin-left: 13px;
 }
