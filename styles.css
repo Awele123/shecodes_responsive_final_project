@@ -96,9 +96,7 @@ nav li {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  /* align-items: left; */
-  height: 100vh;
-  padding: 0px 60px;
+  padding: 0px;
 }
 .project-desciption h2 {
   font-size: 4em;
@@ -213,7 +211,7 @@ footer .email-link {
   justify-content: center;
   align-content: center;
   gap: 20px;
-  /* height: 60vh; */
+
   font-family: "Poppins", sans-serif;
 }
 .title h1 {
