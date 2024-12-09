@@ -435,4 +435,7 @@ footer {
   .contact-bod form {
     margin: 20px;
   }
+  nav {
+    padding: 0px;
+  }
 }
